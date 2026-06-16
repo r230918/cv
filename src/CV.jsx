@@ -184,14 +184,18 @@ export default function CV() {
 
           <div className="section">
             <h2>SKILLS</h2>
+            
             <ul>
-              <li>Problem Solving</li>
-              <li>Full Stack Development</li>
-              <li>Java</li>
-              <li>Python</li>
-              <li>React</li>
-              <li>Spring Boot</li>
+                <li>Problem Solving</li>
+                <li>Full Stack Development</li>
+                <li>Java</li>
+                <li>Python</li>
+                <li>React</li>
+                <li>Spring Boot</li>
+                <li>Git</li>
+                <li>GitHub</li>
             </ul>
+            
           </div>
 
           <div className="section">
